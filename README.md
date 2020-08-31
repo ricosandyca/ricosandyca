@@ -6,8 +6,4 @@
 - 💻 &nbsp;Fullstack JavaScript and TypeScript Developer
 - ☁️ &nbsp;Cloud Computing Enthusiast
 - 🐱 &nbsp;Monstercat Lover
-
-#### Where you can find me
-- [ricosandyca.now.sh](http://ricosandyca.now.sh)
-- [Dribbble](https://dribbble.com/ricosandyca)
-- [Instagram](https://instagram.com/ricosandyca)
+- 📺 &nbsp;Anime Lover
