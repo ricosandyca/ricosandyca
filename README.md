@@ -6,4 +6,4 @@
 - 💻 &nbsp;Fullstack JavaScript and TypeScript Developer
 - ☁️ &nbsp;Cloud Computing Enthusiast
 - 🐱 &nbsp;Monstercat Lover
-- 📺 &nbsp;Anime Lover
+- 📺 &nbsp;Anime Lover ◕ω◕
