@@ -1,3 +1,7 @@
-## It's me, Rico
+### It's me, Rico
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ricosandyca&show_icons=true)
+- 💻 Fullstack JavaScript/TypeScript Developer
+- ☁️ Cloud Computing Enthusiast
+- 🐱 Monstercat Lover
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricosandyca)
