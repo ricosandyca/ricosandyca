@@ -7,5 +7,5 @@
 - 📺 &nbsp;Anime Lover ◕ω◕
 
 ### Open Source Apps
-- [Anilist](https://rcsn-anilist.vercel.app)
+- [AniList](https://rcsn-anilist.vercel.app)
 - [Pokédex](https://rcsn-pokedex.vercel.app)
