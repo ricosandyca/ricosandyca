@@ -5,3 +5,7 @@
 - ☁️ &nbsp;Cloud Computing Enthusiast
 - 🐱 &nbsp;Monstercat Lover
 - 📺 &nbsp;Anime Lover ◕ω◕
+
+### Open Source Apps
+- [Anilist](https://rcsn-anilist.vercel.app)
+- [Pokédex](https://rcsn-pokedex.vercel.app)
