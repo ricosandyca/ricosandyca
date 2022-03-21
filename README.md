@@ -5,4 +5,3 @@
 - ☁️ &nbsp;Cloud Computing Enthusiast
 - 🐱 &nbsp;Monstercat Lover
 - 📺 &nbsp;Anime Lover ◕ω◕
-- 📖 &nbsp;Currently learning [Dart](https://github.com/dart-lang) and [Flutter](https://github.com/flutter) 💪
